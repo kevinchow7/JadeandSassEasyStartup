@@ -7,4 +7,4 @@ echo watch sass start
 sass --watch ./src/sass:./css &
 
 echo browser-sync start 
-browser-sync start --server --files "css/*.css, ./*.html"
+browser-sync start --server --files "css/*.css, ./*.html, js/*.js"

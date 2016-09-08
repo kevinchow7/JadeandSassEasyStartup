@@ -1,1 +1,2 @@
-This is the javascript folder. Dump all your js file here. 
+This is the Javascript folder. Sass will automatically transpile the Javascript files into here and browser-sync 
+will watch any changes here as well. 
